@@ -9,7 +9,7 @@ At the julia> prompt, type
 
 ### Examples
 
-Browse the Jupyter notebooks [which are available in the examples folder](http://nbviewer.jupyter.org/github/mforets/zonotopes/tree/master/examples/).
+Browse the Jupyter notebooks [which are available in the examples folder](http://nbviewer.jupyter.org/github/mforets/Zonotopes.jl/tree/master/examples/).
 
 At the julia> prompt, you can type
 
